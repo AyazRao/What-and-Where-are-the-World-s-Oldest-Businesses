@@ -46,18 +46,33 @@ To get started with the project, follow these steps:
 The project is divided into multiple tasks, each outlined with specific instructions. Follow the instructions for each task to progress through the analysis and gain valuable insights into the world's oldest businesses.
 
 1. **Task 1:** Data exploration and sorting businesses by founding date.
+
 ![Visualization 1](images/Task1png)
+
 2. **Task 2:** Identifying the oldest businesses in North America.
-![Visualization 1](images/Task2.png)
+
+![Visualization 2](images/Task2.png)
+
 3. **Task 3:** Determining the oldest business on each continent.
-![Visualization 1](images/Task3.png)
+
+![Visualization 3](images/Task3.png)
+
 4. **Task 4:** Identifying countries with unknown oldest businesses.
-![Visualization 1](images/Task4.png)
+
+![Visualization 4](images/Task4.png)
+
 5. **Task 5:** Adding new oldest business data to enhance the dataset.
-![Visualization 1](images/Task5.png)
+
+![Visualization 5](images/Task5.png)
+
 6. **Task 6:** Analyzing the oldest industries using category information.
-![Visualization 1](images/Task6.png)
+
+![Visualization 6](images/Task6.png)
+
 7. **Task 7:** Discovering the oldest restaurants in the world.
-![Visualization 1](images/Task7.png)
+
+![Visualization 7](images/Task7.png)
+
 8. **Task 8:** Creating a reference table showing the oldest business in each category by continent.
-![Visualization 1](images/Task8.png)
+
+![Visualization 8](images/Task8.png)
